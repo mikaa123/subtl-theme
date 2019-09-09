@@ -1,3 +1,11 @@
 :root {
   --sn-stylekit-success-color: #2f3945;
 }
+
+#sn-advanced-markdown-editor .editor-toolbar {
+  display: none !important;
+}
+
+#sn-advanced-markdown-editor .CodeMirror {
+  top: 0 !important;
+}
