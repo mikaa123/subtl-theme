@@ -9,3 +9,11 @@
 #sn-advanced-markdown-editor .CodeMirror {
   top: 0 !important;
 }
+
+.cm-header.cm-header-1,
+.cm-header.cm-header-2,
+.cm-header.cm-header-3,
+.cm-header.cm-header-4,
+.cm-header.cm-header-5 {
+  font-size: 16px !important
+}
