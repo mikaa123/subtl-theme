@@ -1,0 +1,8 @@
+{
+  "name": "sn-theme-subtl",
+  "version": "0.0.1",
+  "main": "dist.css",
+  "sn": {
+    "main": "dist.css"
+  }
+}
