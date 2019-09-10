@@ -8,6 +8,7 @@
 
 #sn-advanced-markdown-editor .CodeMirror {
   top: 0 !important;
+  font-family: monospace !important;
 }
 
 .cm-header.cm-header-1,
