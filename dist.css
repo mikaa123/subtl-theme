@@ -17,3 +17,7 @@
 .cm-header.cm-header-5 {
   font-size: 16px !important
 }
+
+.editor-content, #editor-content {
+  tab-size: 4 !important;
+}
